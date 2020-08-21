@@ -10,7 +10,8 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/assets`,
+        ignore: ["**/README**"]
       },
     },
     {
@@ -21,9 +22,9 @@ module.exports = {
         ignore: [`**/\.*`, "**/README**"]
       },
     },
+    `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-transformer-remark`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -33,7 +34,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/favicon.svg`,
+        icon: `assets/favicon/favicon.svg`,
       },
     },
     {

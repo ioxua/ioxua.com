@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="500" height="500" version="1.1" viewBox="0 0 132.29 132.29" xmlns="http://www.w3.org/2000/svg">
+ <style id="style10"/>
+ <g id="layer1">
+  <circle id="path193" cx="66.146" cy="66.146" r="52.033" fill="#ff1e5c" stroke-width=".41343"/>
+ </g>
+ <g id="layer2" style="mix-blend-mode:darken">
+  <circle id="path193-5" cx="66.146" cy="66.146" r="52.033" fill="#007df0" stroke-width=".41344"/>
+ </g>
+ <g id="layer3" style="mix-blend-mode:darken">
+  <circle id="path193-5-6" cx="66.146" cy="66.146" r="52.033" fill="#57f5cb" stroke-width=".41344" style="mix-blend-mode:lighten"/>
+ </g>
+ <g id="layer4" style="mix-blend-mode:color-burn">
+  <circle id="path193-5-6-2" cx="66.146" cy="66.146" r="52.033" fill="#5fd3bc" stroke-width=".41344" style="mix-blend-mode:lighten"/>
+ </g>
+ <g id="layer5" style="mix-blend-mode:darken">
+  <circle id="path193-5-6-2-3" cx="66.146" cy="66.146" r="52.033" fill="#ffca00" stroke-width=".41344" style="mix-blend-mode:lighten"/>
+ </g>
+ <g id="layer6" style="mix-blend-mode:color-burn">
+  <circle id="path193-5-6-2-6" cx="66.146" cy="66.146" r="52.033" fill="#aa00d4" stroke-width=".41344" style="mix-blend-mode:lighten"/>
+ </g>
+</svg>
