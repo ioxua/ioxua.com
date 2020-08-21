@@ -22,6 +22,7 @@ module.exports = {
         ignore: [`**/\.*`, "**/README**"]
       },
     },
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-transformer-remark`,
