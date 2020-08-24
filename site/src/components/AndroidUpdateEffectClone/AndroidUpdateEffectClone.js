@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import CircleSVG from "@assets/circle-animation.svg"
+import CircleSVG from "../../../assets/circle-animation.svg"
 
 import "./AndroidUpdateEffectClone.css"
 

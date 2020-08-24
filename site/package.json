@@ -28,7 +28,6 @@
   "devDependencies": {
     "babel-plugin-inline-react-svg": "^1.1.1",
     "babel-plugin-styled-components": "^1.11.1",
-    "link-module-alias": "^1.2.0",
     "prettier": "2.0.5"
   },
   "keywords": [
@@ -42,13 +41,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "preinstall": "which link-module-alias && link-module-alias clean || echo",
-    "postinstall": "link-module-alias"
-  },
-  "_moduleAliases": {
-    "@src": "src",
-    "@assets": "assets"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
     "type": "git",
