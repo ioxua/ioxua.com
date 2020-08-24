@@ -5,7 +5,11 @@ import CircleSVG from "@assets/circle-animation.svg"
 import "./AndroidUpdateEffectClone.css"
 
 const Wrapper = styled.div`
-  max-width: 100%;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   
   svg {
     max-width: 100%;
